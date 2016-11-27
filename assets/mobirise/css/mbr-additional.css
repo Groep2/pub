@@ -522,6 +522,7 @@ h6,
 
 
 
+
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -623,17 +624,25 @@ h6,
   color: #5b5b5b;
   text-align: center;
 }
-#msg-box6-o .mbr-section-title,
-#msg-box6-o .lead p {
-  color: #fff;
-}
-#msg-box6-o H3 {
+#header2-1o H3 {
   color: #77ca24;
-  font-family: 'Oswald', sans-serif;
 }
-#msg-box6-o P {
+#header2-1o P {
   font-family: 'Oxygen', sans-serif;
   color: #5d616c;
+}
+#msg-box3-1n .mbr-section-title,
+#msg-box3-1n p {
+  color: #000;
+}
+#msg-box3-1n .lead P {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box3-1n .lead {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box3-1n .mbr-section-title {
+  color: #77ca24;
 }
 #contacts1-5 P {
   font-family: 'Oxygen', sans-serif;
@@ -647,6 +656,8 @@ h6,
 #contacts1-5 DIV {
   text-align: left;
 }
+
+
 
 
 
@@ -702,6 +713,21 @@ h6,
 }
 #msg-box5-18 P {
   font-family: 'Oxygen', sans-serif;
+}
+#content5-1y .mbr-section-title,
+#content5-1y p {
+  color: #fff;
+}
+#content5-1y .mbr-section-title {
+  text-align: center;
+  color: #77ca24;
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+}
+#content5-1y P {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  color: #5d616c;
 }
 #menu-p .hide-buttons .nav-btn {
   display: none !important;
@@ -789,6 +815,10 @@ h6,
 
 
 
+
+
+
+
 #content5-1i .mbr-section-title,
 #content5-1i p {
   color: #fff;
@@ -804,6 +834,21 @@ h6,
   font-family: 'Oxygen', sans-serif;
   color: #5d616c;
 }
+#content5-1r .mbr-section-title,
+#content5-1r p {
+  color: #fff;
+}
+#content5-1r .mbr-section-title {
+  text-align: center;
+  color: #77ca24;
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+}
+#content5-1r P {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  color: #5d616c;
+}
 #msg-box6-1l .mbr-section-title,
 #msg-box6-1l .lead p {
   color: #fff;
@@ -814,6 +859,21 @@ h6,
 }
 #msg-box6-1l P {
   font-family: 'Oxygen', sans-serif;
+}
+#content5-1t .mbr-section-title,
+#content5-1t p {
+  color: #fff;
+}
+#content5-1t .mbr-section-title {
+  text-align: center;
+  color: #77ca24;
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+}
+#content5-1t P {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  color: #5d616c;
 }
 #menu-s .hide-buttons .nav-btn {
   display: none !important;
