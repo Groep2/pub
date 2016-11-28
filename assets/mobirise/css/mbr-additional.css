@@ -608,6 +608,7 @@ h6,
 }
 #msg-box5-1k P {
   font-family: 'Oxygen', sans-serif;
+  color: #232323;
 }
 #features3-m H4 {
   font-family: 'Oswald', sans-serif;
@@ -616,8 +617,9 @@ h6,
 }
 #features3-m H5 {
   font-family: 'Oxygen', sans-serif;
-  color: #c1c1c1;
+  color: #615d5d;
   text-align: center;
+  font-size: 16px;
 }
 #features3-m P {
   font-family: 'Oxygen', sans-serif;
@@ -656,7 +658,6 @@ h6,
 #contacts1-5 DIV {
   text-align: left;
 }
-
 
 
 
@@ -714,20 +715,17 @@ h6,
 #msg-box5-18 P {
   font-family: 'Oxygen', sans-serif;
 }
-#content5-1y .mbr-section-title,
-#content5-1y p {
-  color: #fff;
+#msg-box3-28 .mbr-section-title,
+#msg-box3-28 p {
+  color: #000;
 }
-#content5-1y .mbr-section-title {
-  text-align: center;
-  color: #77ca24;
-  font-family: 'Oswald', sans-serif;
-  font-size: 36px;
-}
-#content5-1y P {
-  text-align: center;
+#msg-box3-28 .lead P {
+  color: #615d5d;
   font-family: 'Oxygen', sans-serif;
-  color: #5d616c;
+}
+#msg-box3-28 .mbr-section-title {
+  font-size: 36px;
+  color: #77ca24;
 }
 #menu-p .hide-buttons .nav-btn {
   display: none !important;
@@ -942,6 +940,10 @@ h6,
 #menu-s .close-icon::before,
 #menu-s .close-icon::after {
   background-color: #77ca24;
+}
+#msg-box4-22 H3 {
+  font-size: 36px;
+  color: #77ca24;
 }
 #contacts1-t P {
   font-family: 'Oxygen', sans-serif;
@@ -1159,6 +1161,8 @@ h6,
 
 
 
+
+
 #content5-1h .mbr-section-title,
 #content5-1h p {
   color: #fff;
@@ -1173,6 +1177,20 @@ h6,
   text-align: center;
   font-family: 'Oxygen', sans-serif;
   color: #5d616c;
+}
+#msg-box3-24 .mbr-section-title,
+#msg-box3-24 p {
+  color: #000;
+}
+#msg-box3-24 .lead P {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box3-24 .lead {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box3-24 .mbr-section-title {
+  color: #77ca24;
+  font-size: 36px;
 }
 #menu-11 .hide-buttons .nav-btn {
   display: none !important;
