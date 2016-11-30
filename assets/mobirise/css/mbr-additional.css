@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 
@@ -426,7 +427,7 @@ h6,
 }
 #msg-box5-k H3 {
   font-family: 'Oswald', sans-serif;
-  color: #77ca24;
+  color: #69a42e;
 }
 #msg-box5-k .btn {
   font-family: 'Oxygen', sans-serif;
@@ -438,12 +439,12 @@ h6,
   color: #ffffff;
 }
 #menu-d .navbar-toggler {
-  color: #77ca24;
+  color: #69a42e;
 }
 #menu-d .link,
 #menu-d .dropdown-item {
-  color: #77ca24;
-  font-family: 'Oswald', sans-serif;
+  color: #69a42e;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-d .link {
   font-size: 0.95rem;
@@ -475,7 +476,7 @@ h6,
   background: #ffffff;
 }
 #menu-d .bg-color.transparent .link {
-  color: #77ca24;
+  color: #69a42e;
   transition: none;
 }
 #menu-d .bg-color.transparent.opened .link {
@@ -497,7 +498,7 @@ h6,
 }
 #menu-d .close-icon::before,
 #menu-d .close-icon::after {
-  background-color: #77ca24;
+  background-color: #69a42e;
 }
 #contacts1-e P {
   font-family: 'Oxygen', sans-serif;
@@ -506,7 +507,7 @@ h6,
 }
 #contacts1-e STRONG {
   text-align: left;
-  color: #77ca24;
+  color: #69a42e;
 }
 #contacts1-e DIV {
   text-align: left;
@@ -530,12 +531,12 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #77ca24;
+  color: #69a42e;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #77ca24;
-  font-family: 'Oswald', sans-serif;
+  color: #69a42e;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-0 .link {
   font-size: 0.95rem;
@@ -567,7 +568,7 @@ h6,
   background: #ffffff;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #77ca24;
+  color: #69a42e;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -589,20 +590,20 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #77ca24;
+  background-color: #69a42e;
 }
 #header1-c .mbr-section-title {
-  color: #77ca24;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
   font-size: 72px;
 }
 #header1-c .mbr-section-lead {
   font-family: 'Oxygen', sans-serif;
   font-size: 22px;
-  color: #ffffff;
+  color: #595555;
 }
 #msg-box5-1k H3 {
-  color: #77ca24;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
@@ -612,7 +613,7 @@ h6,
 }
 #features3-m H4 {
   font-family: 'Oswald', sans-serif;
-  color: #77ca24;
+  color: #69a42e;
   text-align: center;
 }
 #features3-m H5 {
@@ -627,7 +628,7 @@ h6,
   text-align: center;
 }
 #header2-1o H3 {
-  color: #77ca24;
+  color: #69a42e;
 }
 #header2-1o P {
   font-family: 'Oxygen', sans-serif;
@@ -644,7 +645,7 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #msg-box3-1n .mbr-section-title {
-  color: #77ca24;
+  color: #69a42e;
 }
 #contacts1-5 P {
   font-family: 'Oxygen', sans-serif;
@@ -653,7 +654,7 @@ h6,
 }
 #contacts1-5 STRONG {
   text-align: left;
-  color: #77ca24;
+  color: #69a42e;
 }
 #contacts1-5 DIV {
   text-align: left;
@@ -675,7 +676,7 @@ h6,
 }
 #content5-1a .mbr-section-title {
   text-align: center;
-  color: #77ca24;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
   font-size: 60px;
 }
@@ -685,7 +686,7 @@ h6,
   color: #5d616c;
 }
 #msg-box5-19 H3 {
-  color: #77ca24;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
@@ -698,7 +699,7 @@ h6,
 }
 #content5-1d .mbr-section-title {
   text-align: center;
-  color: #77ca24;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
@@ -708,7 +709,7 @@ h6,
   color: #5d616c;
 }
 #msg-box5-18 H3 {
-  color: #77ca24;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
@@ -725,7 +726,7 @@ h6,
 }
 #msg-box3-28 .mbr-section-title {
   font-size: 36px;
-  color: #77ca24;
+  color: #69a42e;
 }
 #menu-p .hide-buttons .nav-btn {
   display: none !important;
@@ -734,12 +735,12 @@ h6,
   color: #ffffff;
 }
 #menu-p .navbar-toggler {
-  color: #77ca24;
+  color: #69a42e;
 }
 #menu-p .link,
 #menu-p .dropdown-item {
-  color: #77ca24;
-  font-family: 'Oswald', sans-serif;
+  color: #69a42e;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-p .link {
   font-size: 0.95rem;
@@ -771,7 +772,7 @@ h6,
   background: #ffffff;
 }
 #menu-p .bg-color.transparent .link {
-  color: #77ca24;
+  color: #69a42e;
   transition: none;
 }
 #menu-p .bg-color.transparent.opened .link {
@@ -793,7 +794,7 @@ h6,
 }
 #menu-p .close-icon::before,
 #menu-p .close-icon::after {
-  background-color: #77ca24;
+  background-color: #69a42e;
 }
 #contacts1-q P {
   font-family: 'Oxygen', sans-serif;
@@ -802,12 +803,11 @@ h6,
 }
 #contacts1-q STRONG {
   text-align: left;
-  color: #77ca24;
+  color: #69a42e;
 }
 #contacts1-q DIV {
   text-align: left;
 }
-
 
 
 
@@ -823,7 +823,7 @@ h6,
 }
 #content5-1i .mbr-section-title {
   text-align: center;
-  color: #77ca24;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
   font-size: 60px;
 }
@@ -831,6 +831,7 @@ h6,
   text-align: center;
   font-family: 'Oxygen', sans-serif;
   color: #5d616c;
+  font-size: 17px;
 }
 #content5-1r .mbr-section-title,
 #content5-1r p {
@@ -838,7 +839,7 @@ h6,
 }
 #content5-1r .mbr-section-title {
   text-align: center;
-  color: #77ca24;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
@@ -847,15 +848,12 @@ h6,
   font-family: 'Oxygen', sans-serif;
   color: #5d616c;
 }
-#msg-box6-1l .mbr-section-title,
-#msg-box6-1l .lead p {
-  color: #fff;
+#msg-box4-29 H3 {
+  font-size: 36px;
+  color: #69a42e;
 }
-#msg-box6-1l H3 {
-  color: #77ca24;
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box6-1l P {
+#msg-box4-29 P {
+  color: #ffffff;
   font-family: 'Oxygen', sans-serif;
 }
 #content5-1t .mbr-section-title,
@@ -864,7 +862,7 @@ h6,
 }
 #content5-1t .mbr-section-title {
   text-align: center;
-  color: #77ca24;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
@@ -880,12 +878,12 @@ h6,
   color: #ffffff;
 }
 #menu-s .navbar-toggler {
-  color: #77ca24;
+  color: #69a42e;
 }
 #menu-s .link,
 #menu-s .dropdown-item {
-  color: #77ca24;
-  font-family: 'Oswald', sans-serif;
+  color: #69a42e;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-s .link {
   font-size: 0.95rem;
@@ -917,7 +915,7 @@ h6,
   background: #ffffff;
 }
 #menu-s .bg-color.transparent .link {
-  color: #77ca24;
+  color: #69a42e;
   transition: none;
 }
 #menu-s .bg-color.transparent.opened .link {
@@ -939,11 +937,11 @@ h6,
 }
 #menu-s .close-icon::before,
 #menu-s .close-icon::after {
-  background-color: #77ca24;
+  background-color: #69a42e;
 }
 #msg-box4-22 H3 {
   font-size: 36px;
-  color: #77ca24;
+  color: #69a42e;
 }
 #contacts1-t P {
   font-family: 'Oxygen', sans-serif;
@@ -952,7 +950,7 @@ h6,
 }
 #contacts1-t STRONG {
   text-align: left;
-  color: #77ca24;
+  color: #69a42e;
 }
 #contacts1-t DIV {
   text-align: left;
@@ -966,7 +964,7 @@ h6,
   color: #232323;
 }
 #form1-14 .mbr-section-title {
-  color: #77ca24;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
   font-size: 60px;
 }
@@ -985,12 +983,12 @@ h6,
   color: #ffffff;
 }
 #menu-y .navbar-toggler {
-  color: #77ca24;
+  color: #69a42e;
 }
 #menu-y .link,
 #menu-y .dropdown-item {
-  color: #77ca24;
-  font-family: 'Oswald', sans-serif;
+  color: #69a42e;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-y .link {
   font-size: 0.95rem;
@@ -1022,7 +1020,7 @@ h6,
   background: #ffffff;
 }
 #menu-y .bg-color.transparent .link {
-  color: #77ca24;
+  color: #69a42e;
   transition: none;
 }
 #menu-y .bg-color.transparent.opened .link {
@@ -1044,7 +1042,7 @@ h6,
 }
 #menu-y .close-icon::before,
 #menu-y .close-icon::after {
-  background-color: #77ca24;
+  background-color: #69a42e;
 }
 #contacts1-z P {
   font-family: 'Oxygen', sans-serif;
@@ -1053,7 +1051,7 @@ h6,
 }
 #contacts1-z STRONG {
   text-align: left;
-  color: #77ca24;
+  color: #69a42e;
 }
 #contacts1-z DIV {
   text-align: left;
@@ -1068,7 +1066,7 @@ h6,
 }
 #content5-1j .mbr-section-title {
   text-align: center;
-  color: #77ca24;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
   font-size: 60px;
 }
@@ -1084,12 +1082,12 @@ h6,
   color: #ffffff;
 }
 #menu-v .navbar-toggler {
-  color: #77ca24;
+  color: #69a42e;
 }
 #menu-v .link,
 #menu-v .dropdown-item {
-  color: #77ca24;
-  font-family: 'Oswald', sans-serif;
+  color: #69a42e;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-v .link {
   font-size: 0.95rem;
@@ -1121,7 +1119,7 @@ h6,
   background: #ffffff;
 }
 #menu-v .bg-color.transparent .link {
-  color: #77ca24;
+  color: #69a42e;
   transition: none;
 }
 #menu-v .bg-color.transparent.opened .link {
@@ -1143,7 +1141,7 @@ h6,
 }
 #menu-v .close-icon::before,
 #menu-v .close-icon::after {
-  background-color: #77ca24;
+  background-color: #69a42e;
 }
 #contacts1-w P {
   font-family: 'Oxygen', sans-serif;
@@ -1152,7 +1150,7 @@ h6,
 }
 #contacts1-w STRONG {
   text-align: left;
-  color: #77ca24;
+  color: #69a42e;
 }
 #contacts1-w DIV {
   text-align: left;
@@ -1169,7 +1167,7 @@ h6,
 }
 #content5-1h .mbr-section-title {
   text-align: center;
-  color: #77ca24;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
   font-size: 60px;
 }
@@ -1189,7 +1187,7 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #msg-box3-24 .mbr-section-title {
-  color: #77ca24;
+  color: #69a42e;
   font-size: 36px;
 }
 #menu-11 .hide-buttons .nav-btn {
@@ -1199,12 +1197,12 @@ h6,
   color: #ffffff;
 }
 #menu-11 .navbar-toggler {
-  color: #77ca24;
+  color: #69a42e;
 }
 #menu-11 .link,
 #menu-11 .dropdown-item {
-  color: #77ca24;
-  font-family: 'Oswald', sans-serif;
+  color: #69a42e;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-11 .link {
   font-size: 0.95rem;
@@ -1236,7 +1234,7 @@ h6,
   background: #ffffff;
 }
 #menu-11 .bg-color.transparent .link {
-  color: #77ca24;
+  color: #69a42e;
   transition: none;
 }
 #menu-11 .bg-color.transparent.opened .link {
@@ -1258,7 +1256,7 @@ h6,
 }
 #menu-11 .close-icon::before,
 #menu-11 .close-icon::after {
-  background-color: #77ca24;
+  background-color: #69a42e;
 }
 #contacts1-12 P {
   font-family: 'Oxygen', sans-serif;
@@ -1267,7 +1265,7 @@ h6,
 }
 #contacts1-12 STRONG {
   text-align: left;
-  color: #77ca24;
+  color: #69a42e;
 }
 #contacts1-12 DIV {
   text-align: left;

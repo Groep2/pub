@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "overons.html",
+    "currentPage": "experimenten.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -24,7 +24,7 @@
     "uniqCompNum": 82,
     "versionPublish": "3.9.2",
     "publishType": "local",
-    "publishPath": "file:///d:/Users/Ludwig/Desktop/Eeste%20Test",
+    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
