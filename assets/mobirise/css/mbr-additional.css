@@ -817,6 +817,8 @@ h6,
 
 
 
+
+
 #content5-1i .mbr-section-title,
 #content5-1i p {
   color: #fff;
@@ -854,6 +856,12 @@ h6,
 }
 #msg-box4-29 P {
   color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box4-2g H3 {
+  color: #69a42e;
+}
+#msg-box4-2g P {
   font-family: 'Oxygen', sans-serif;
 }
 #content5-1t .mbr-section-title,
@@ -939,9 +947,13 @@ h6,
 #menu-s .close-icon::after {
   background-color: #69a42e;
 }
-#msg-box4-22 H3 {
-  font-size: 36px;
-  color: #69a42e;
+#content1-2b P {
+  font-size: 13px;
+}
+#content1-2b DIV {
+  text-align: center;
+  font-size: 13px;
+  font-family: 'Oxygen', sans-serif;
 }
 #contacts1-t P {
   font-family: 'Oxygen', sans-serif;
@@ -954,6 +966,12 @@ h6,
 }
 #contacts1-t DIV {
   text-align: left;
+}
+#header6-2h .mbr-section-title {
+  color: #28262b;
+}
+#header6-2h .mbr-section-text {
+  color: #565656;
 }
 
 
@@ -1161,6 +1179,7 @@ h6,
 
 
 
+
 #content5-1h .mbr-section-title,
 #content5-1h p {
   color: #fff;
@@ -1175,6 +1194,13 @@ h6,
   text-align: center;
   font-family: 'Oxygen', sans-serif;
   color: #5d616c;
+}
+#msg-box5-2c H3 {
+  color: #77ca24;
+  font-size: 36px;
+}
+#msg-box5-2c P {
+  font-family: 'Oxygen', sans-serif;
 }
 #msg-box3-24 .mbr-section-title,
 #msg-box3-24 p {
