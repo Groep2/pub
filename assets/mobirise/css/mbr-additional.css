@@ -507,7 +507,7 @@ h6,
 }
 #contacts1-e STRONG {
   text-align: left;
-  color: #000000;
+  color: #69a42e;
 }
 #contacts1-e DIV {
   text-align: left;
@@ -530,11 +530,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #ffffff;
+  color: #69a42e;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #ffffff;
+  color: #69a42e;
   font-family: 'Montserrat', sans-serif;
 }
 #menu-0 .link {
@@ -552,22 +552,22 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #a8a8a8;
+  background: #e6e6e6;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #b9b9b9!important;
+  background: #f7f7f7!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #c1c1c1;
+  background: #ffffff;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #69a42e;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -589,20 +589,20 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #69a42e;
 }
 #header1-c .mbr-section-title {
-  color: #ffffff;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
   font-size: 72px;
 }
 #header1-c .mbr-section-lead {
   font-family: 'Oxygen', sans-serif;
   font-size: 22px;
-  color: #ffffff;
+  color: #545454;
 }
 #msg-box5-1k H3 {
-  color: #000000;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
@@ -612,7 +612,7 @@ h6,
 }
 #features3-m H4 {
   font-family: 'Oswald', sans-serif;
-  color: #000000;
+  color: #69a42e;
   text-align: center;
 }
 #features3-m H5 {
@@ -632,7 +632,7 @@ h6,
 }
 #msg-box3-2u .mbr-section-title {
   font-size: 46px;
-  color: #ffffff;
+  color: #69a42e;
 }
 #msg-box3-1n .mbr-section-title,
 #msg-box3-1n p {
@@ -645,7 +645,7 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #msg-box3-1n .mbr-section-title {
-  color: #000000;
+  color: #69a42e;
 }
 #contacts1-5 P {
   font-family: 'Oxygen', sans-serif;
@@ -654,7 +654,7 @@ h6,
 }
 #contacts1-5 STRONG {
   text-align: left;
-  color: #000000;
+  color: #69a42e;
 }
 #contacts1-5 DIV {
   text-align: left;
@@ -678,14 +678,14 @@ h6,
 }
 #content5-1a .mbr-section-title {
   text-align: center;
-  color: #ffffff;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
-  font-size: 72px;
+  font-size: 60px;
 }
 #content5-1a P {
   text-align: center;
   font-family: 'Oxygen', sans-serif;
-  color: #efefef;
+  color: #5d616c;
 }
 #content5-2q .mbr-section-title,
 #content5-2q p {
@@ -822,7 +822,7 @@ h6,
 }
 #contacts1-q STRONG {
   text-align: left;
-  color: #000000;
+  color: #69a42e;
 }
 #contacts1-q DIV {
   text-align: left;
@@ -844,14 +844,14 @@ h6,
 }
 #content5-1i .mbr-section-title {
   text-align: center;
-  color: #ffffff;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
-  font-size: 72px;
+  font-size: 60px;
 }
 #content5-1i P {
   text-align: center;
   font-family: 'Oxygen', sans-serif;
-  color: #efefef;
+  color: #5d616c;
   font-size: 17px;
 }
 #content5-1r .mbr-section-title,
@@ -981,7 +981,7 @@ h6,
 }
 #contacts1-t STRONG {
   text-align: left;
-  color: #000000;
+  color: #69a42e;
 }
 #contacts1-t DIV {
   text-align: left;
@@ -1082,7 +1082,7 @@ h6,
 }
 #contacts1-z STRONG {
   text-align: left;
-  color: #000000;
+  color: #69a42e;
 }
 #contacts1-z DIV {
   text-align: left;
@@ -1097,14 +1097,14 @@ h6,
 }
 #content5-1j .mbr-section-title {
   text-align: center;
-  color: #ffffff;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
-  font-size: 72px;
+  font-size: 60px;
 }
 #content5-1j P {
   text-align: center;
   font-family: 'Oxygen', sans-serif;
-  color: #efefef;
+  color: #5d616c;
 }
 #menu-v .hide-buttons .nav-btn {
   display: none !important;
@@ -1181,7 +1181,7 @@ h6,
 }
 #contacts1-w STRONG {
   text-align: left;
-  color: #000000;
+  color: #69a42e;
 }
 #contacts1-w DIV {
   text-align: left;
@@ -1202,14 +1202,14 @@ h6,
 }
 #content5-1h .mbr-section-title {
   text-align: center;
-  color: #ffffff;
+  color: #69a42e;
   font-family: 'Oswald', sans-serif;
-  font-size: 72px;
+  font-size: 60px;
 }
 #content5-1h P {
   text-align: center;
   font-family: 'Oxygen', sans-serif;
-  color: #efefef;
+  color: #5d616c;
 }
 #msg-box5-2c H3 {
   color: #69a42e;
@@ -1340,7 +1340,7 @@ h6,
 }
 #contacts1-12 STRONG {
   text-align: left;
-  color: #000000;
+  color: #69a42e;
 }
 #contacts1-12 DIV {
   text-align: left;
