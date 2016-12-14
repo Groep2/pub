@@ -170,7 +170,7 @@
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#69a42e",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -194,7 +194,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -210,7 +210,7 @@
             },
             "STRONG": {
               "text-align": "left",
-              "color": "#69a42e"
+              "color": "#545454"
             },
             "DIV": {
               "text-align": "left"
@@ -271,10 +271,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#69a42e"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#69a42e",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -297,7 +297,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#69a42e",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -317,7 +317,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#69a42e"
+              "background-color": "#ffffff"
             }
           },
           "_name": "menu",
@@ -330,7 +330,7 @@
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#69a42e",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -363,7 +363,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#69a42e",
+              "color": "#ffffff",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "72px"
@@ -372,7 +372,7 @@
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "22px",
-              "color": "#545454"
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-c",
@@ -389,7 +389,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.7",
-            "overlayColor": "#ffffff",
+            "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
@@ -406,7 +406,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#69a42e",
+              "color": "#545454",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "36px"
@@ -421,7 +421,7 @@
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "5",
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/achtergrond-2000x1341-19.jpg",
             "bgColor": "#fff",
@@ -432,7 +432,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.7",
-            "overlayColor": "#efefef",
+            "overlayColor": "#ffffff",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -473,7 +473,7 @@
             "H4": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#69a42e",
+              "color": "#545454",
               "text-align": "center"
             },
             "H5": {
@@ -496,15 +496,15 @@
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgImage": "@PROJECT_PATH@/assets/images/wit-2000x1434-39.jpg",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.9",
             "overlayColor": "#222",
             "columns": "3",
             "showImages": true,
@@ -606,7 +606,7 @@
             },
             ".mbr-section-title": {
               "font-size": "46px",
-              "color": "#69a42e"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -627,8 +627,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#efefef",
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showText": false,
             "showButton": true
@@ -652,7 +652,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-section-title": {
-              "color": "#69a42e"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -681,7 +681,7 @@
           },
           "title": "WIE ZIJN WIJ",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"overons.html\" data-toolbar=\"-mbrBtnMove\">Over ons &nbsp;<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"overons.html\" data-toolbar=\"-mbrBtnMove\">Over ons &nbsp;<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a>"
         },
         {
           "_tags": [
@@ -697,7 +697,7 @@
             },
             "STRONG": {
               "text-align": "left",
-              "color": "#69a42e"
+              "color": "#545454"
             },
             "DIV": {
               "text-align": "left"
@@ -750,7 +750,7 @@
             },
             ".mbr-section-title": {
               "text-align": "center",
-              "color": "#69a42e",
+              "color": "#ffffff",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "60px"
@@ -759,7 +759,7 @@
               "text-align": "center",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#5d616c"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -780,8 +780,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showCaption": true
           },
@@ -840,7 +840,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#69a42e",
+              "color": "#545454",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "36px"
@@ -848,7 +848,7 @@
             "P": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#615d5d"
+              "color": "#5d616c"
             }
           },
           "_anchor": "msg-box5-19",
@@ -866,7 +866,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.7",
-            "overlayColor": "#fff",
+            "overlayColor": "#ffffff",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -905,7 +905,7 @@
             },
             ".mbr-section-title": {
               "text-align": "center",
-              "color": "#69a42e",
+              "color": "#ffffff",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "36px"
@@ -928,7 +928,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "file:///d:/Users/Ludwig/AppData/Local/Mobirise.com/Mobirise/projectData/1ac5a-folding-scrapbook-how-to-1-2000x1341-98_1.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -997,7 +997,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -1013,7 +1013,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#69a42e",
+              "color": "#545454",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "36px"
@@ -1021,7 +1021,7 @@
             "P": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#615d5d"
+              "color": "#5d616c"
             }
           },
           "_anchor": "msg-box5-18",
@@ -1084,7 +1084,7 @@
             },
             ".mbr-section-title": {
               "font-size": "36px",
-              "color": "#69a42e"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -1113,7 +1113,7 @@
           },
           "title": "UITEINDELIJK CONCEPT",
           "text": "<p>We gaan op zoek naar techieken om papier en andere fragile materialen te vouwen. Hiedoor trachten we een stevig object te maken met deze eerder zwakke materialen. We doen een vorm- en materiaalonderzoek en tasten de mogelijkheden van de materialen al doende af.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"experimenten.html\" data-toolbar=\"-mbrBtnMove\">Experimenten&nbsp;<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"experimenten.html\" data-toolbar=\"-mbrBtnMove\">Experimenten&nbsp;<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a>"
         },
         {
           "_styles": {
@@ -1124,10 +1124,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#69a42e"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#69a42e",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -1150,7 +1150,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#69a42e",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1170,7 +1170,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#69a42e"
+              "background-color": "#ffffff"
             }
           },
           "_name": "menu",
@@ -1183,7 +1183,7 @@
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#69a42e",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -1207,7 +1207,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1223,7 +1223,7 @@
             },
             "STRONG": {
               "text-align": "left",
-              "color": "#69a42e"
+              "color": "#545454"
             },
             "DIV": {
               "text-align": "left"
@@ -1700,7 +1700,7 @@
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#69a42e",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -1724,7 +1724,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -1867,7 +1867,7 @@
             },
             "STRONG": {
               "text-align": "left",
-              "color": "#69a42e"
+              "color": "#545454"
             },
             "DIV": {
               "text-align": "left"
@@ -2054,7 +2054,7 @@
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#69a42e",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -2078,7 +2078,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2094,7 +2094,7 @@
             },
             "STRONG": {
               "text-align": "left",
-              "color": "#69a42e"
+              "color": "#545454"
             },
             "DIV": {
               "text-align": "left"
@@ -2253,7 +2253,7 @@
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#69a42e",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -2277,7 +2277,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2293,7 +2293,7 @@
             },
             "STRONG": {
               "text-align": "left",
-              "color": "#69a42e"
+              "color": "#545454"
             },
             "DIV": {
               "text-align": "left"
@@ -2877,7 +2877,7 @@
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#69a42e",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -2901,7 +2901,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2917,7 +2917,7 @@
             },
             "STRONG": {
               "text-align": "left",
-              "color": "#69a42e"
+              "color": "#545454"
             },
             "DIV": {
               "text-align": "left"

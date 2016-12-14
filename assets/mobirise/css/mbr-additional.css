@@ -507,7 +507,7 @@ h6,
 }
 #contacts1-e STRONG {
   text-align: left;
-  color: #69a42e;
+  color: #545454;
 }
 #contacts1-e DIV {
   text-align: left;
@@ -530,11 +530,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #69a42e;
+  color: #ffffff;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #69a42e;
+  color: #ffffff;
   font-family: 'Montserrat', sans-serif;
 }
 #menu-0 .link {
@@ -567,7 +567,7 @@ h6,
   background: #ffffff;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #69a42e;
+  color: #ffffff;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -589,20 +589,20 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #69a42e;
+  background-color: #ffffff;
 }
 #header1-c .mbr-section-title {
-  color: #69a42e;
+  color: #ffffff;
   font-family: 'Oswald', sans-serif;
   font-size: 72px;
 }
 #header1-c .mbr-section-lead {
   font-family: 'Oxygen', sans-serif;
   font-size: 22px;
-  color: #545454;
+  color: #ffffff;
 }
 #msg-box5-1k H3 {
-  color: #69a42e;
+  color: #545454;
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
@@ -612,7 +612,7 @@ h6,
 }
 #features3-m H4 {
   font-family: 'Oswald', sans-serif;
-  color: #69a42e;
+  color: #545454;
   text-align: center;
 }
 #features3-m H5 {
@@ -632,7 +632,7 @@ h6,
 }
 #msg-box3-2u .mbr-section-title {
   font-size: 46px;
-  color: #69a42e;
+  color: #ffffff;
 }
 #msg-box3-1n .mbr-section-title,
 #msg-box3-1n p {
@@ -645,7 +645,7 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #msg-box3-1n .mbr-section-title {
-  color: #69a42e;
+  color: #000000;
 }
 #contacts1-5 P {
   font-family: 'Oxygen', sans-serif;
@@ -654,7 +654,7 @@ h6,
 }
 #contacts1-5 STRONG {
   text-align: left;
-  color: #69a42e;
+  color: #545454;
 }
 #contacts1-5 DIV {
   text-align: left;
@@ -678,14 +678,14 @@ h6,
 }
 #content5-1a .mbr-section-title {
   text-align: center;
-  color: #69a42e;
+  color: #ffffff;
   font-family: 'Oswald', sans-serif;
   font-size: 60px;
 }
 #content5-1a P {
   text-align: center;
   font-family: 'Oxygen', sans-serif;
-  color: #5d616c;
+  color: #ffffff;
 }
 #content5-2q .mbr-section-title,
 #content5-2q p {
@@ -703,13 +703,13 @@ h6,
   color: #5d616c;
 }
 #msg-box5-19 H3 {
-  color: #69a42e;
+  color: #545454;
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
 #msg-box5-19 P {
   font-family: 'Oxygen', sans-serif;
-  color: #615d5d;
+  color: #5d616c;
 }
 #content5-1d .mbr-section-title,
 #content5-1d p {
@@ -717,7 +717,7 @@ h6,
 }
 #content5-1d .mbr-section-title {
   text-align: center;
-  color: #69a42e;
+  color: #ffffff;
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
@@ -727,13 +727,13 @@ h6,
   color: #5d616c;
 }
 #msg-box5-18 H3 {
-  color: #69a42e;
+  color: #545454;
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
 #msg-box5-18 P {
   font-family: 'Oxygen', sans-serif;
-  color: #615d5d;
+  color: #5d616c;
 }
 #msg-box3-28 .mbr-section-title,
 #msg-box3-28 p {
@@ -745,7 +745,7 @@ h6,
 }
 #msg-box3-28 .mbr-section-title {
   font-size: 36px;
-  color: #69a42e;
+  color: #000000;
 }
 #menu-p .hide-buttons .nav-btn {
   display: none !important;
@@ -754,11 +754,11 @@ h6,
   color: #ffffff;
 }
 #menu-p .navbar-toggler {
-  color: #69a42e;
+  color: #ffffff;
 }
 #menu-p .link,
 #menu-p .dropdown-item {
-  color: #69a42e;
+  color: #ffffff;
   font-family: 'Montserrat', sans-serif;
 }
 #menu-p .link {
@@ -791,7 +791,7 @@ h6,
   background: #ffffff;
 }
 #menu-p .bg-color.transparent .link {
-  color: #69a42e;
+  color: #ffffff;
   transition: none;
 }
 #menu-p .bg-color.transparent.opened .link {
@@ -813,7 +813,7 @@ h6,
 }
 #menu-p .close-icon::before,
 #menu-p .close-icon::after {
-  background-color: #69a42e;
+  background-color: #ffffff;
 }
 #contacts1-q P {
   font-family: 'Oxygen', sans-serif;
@@ -822,7 +822,7 @@ h6,
 }
 #contacts1-q STRONG {
   text-align: left;
-  color: #69a42e;
+  color: #545454;
 }
 #contacts1-q DIV {
   text-align: left;
@@ -981,7 +981,7 @@ h6,
 }
 #contacts1-t STRONG {
   text-align: left;
-  color: #69a42e;
+  color: #545454;
 }
 #contacts1-t DIV {
   text-align: left;
@@ -1082,7 +1082,7 @@ h6,
 }
 #contacts1-z STRONG {
   text-align: left;
-  color: #69a42e;
+  color: #545454;
 }
 #contacts1-z DIV {
   text-align: left;
@@ -1181,7 +1181,7 @@ h6,
 }
 #contacts1-w STRONG {
   text-align: left;
-  color: #69a42e;
+  color: #545454;
 }
 #contacts1-w DIV {
   text-align: left;
@@ -1340,7 +1340,7 @@ h6,
 }
 #contacts1-12 STRONG {
   text-align: left;
-  color: #69a42e;
+  color: #545454;
 }
 #contacts1-12 DIV {
   text-align: left;
