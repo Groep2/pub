@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "proces.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 109,
+    "uniqCompNum": 117,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file:///d:/Users/Ludwig/Desktop/ZWART%20Test",
@@ -173,13 +173,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
+              "background": "#323232"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
+              "background": "#434343!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
+              "background": "#4b4b4b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -433,7 +433,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
@@ -748,7 +748,7 @@
               "text-align": "left"
             }
           },
-          "_anchor": "contacts1-5",
+          "_anchor": "contacts1-12",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -763,7 +763,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-128x128-50.png",
+              "src": "@PROJECT_PATH@/assets/images/logo1-128x128-44.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -885,7 +885,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#4b4b4b",
+              "color": "#3b3b3b",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "36px"
@@ -921,7 +921,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/brainstormmulti-1400x1013-29.jpg",
+              "src": "@PROJECT_PATH@/assets/images/brainstormmulti-bewerkt-1400x1013-39.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -996,7 +996,7 @@
           "_name": "gallery3",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "4",
+            "paddingBottom": "3",
             "images": [
               {
                 "tags": "Animated",
@@ -1058,7 +1058,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#545454",
+              "color": "#3b3b3b",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "36px"
@@ -1094,7 +1094,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/brainstormorigami-1400x1017-16.jpg",
+              "src": "@PROJECT_PATH@/assets/images/brainstormorigami-bewerkt-1400x1017-47.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1113,8 +1113,74 @@
             }
           },
           "title": "ORIGAMI",
-          "text": "&nbsp;Brainstorm &nbsp;en onderzoek naar origami en vouwtechnieken waar van het eerder zwakke papier een sterk object wordt gemaakt.",
+          "text": "&nbsp;Brainstorm &nbsp;en onderzoek naar origami en vouwtechnieken waar van het eerder zwakke papier een sterk object wordt gemaakt. Origami maakt het ook mogelijk beweging aan een object te geven, deze technieken worden ook onderzocht.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "color": "#615d5d",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "color": "#353434"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-28",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/achtergrondjegrijs-2000x1500-99.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "UITEINDELIJK CONCEPT",
+          "text": "<p>We gaan op zoek naar techieken om papier en andere materialen te vouwen. Hiedoor trachten we een stevig object te maken dat ook beweegbaar is. We doen een vorm- en materiaalonderzoek en tasten de mogelijkheden van de materialen al doende af.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"experimenten.html\" data-toolbar=\"-mbrBtnMove\">Experimenten&nbsp;<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-38",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Uit de brainstorms kwam origami als interessant onderwerp naar boven. Via origami kan men met het zwakke papier en de juiste vouwen een zeer stevige structuur uitkomen. Dit en ook de eigenschap dat door bepaalde vouwmethodes het papier een flexibel en beweegbaar object gaat vormen zijn zeer interessante denkpistes. Wat wij nu in de eerste plaats onderzoeken zijn de verschillende vouwmethodes. Daarna kijken we of deze technieken</p><p>ook kunnen toegepast worden op andere materialen en of de gevouwen figuren ook wendbaar en beweeglijk blijven. </p><p><br></p>",
+          "text2": "<p>Dit betreft in de eerste plaats een studie naar materiaal en techniek maar wat ook belangrijk is, is dat we ook stilstaan bij de betekenis van origami en de crossover. In Japan wordt origami in de eerste plaats gedaan als tijdverdrijf. Men kan er zich bij</p><p>ontspannen en gebruikt het om tot rust te komen.&nbsp;<span style=\"line-height: 1.5;\">Hier in het westen worden we al snel zenuwachtig van deze moeilijke vouwmethodes. Wij, en zeker wij als interieurvormgevers, vinden eerder onze rust in een sfeervolle ruimte.</span></p><p><br></p><p>Het idee is om van origamitechnieken te starten en met deze methodes een ruimtevullend object te maken waarmij we de sfeer van de ruimte kunnen bepalen.</p>",
+          "_styles": {
+            "P": {
+              "color": "#4b4b4b",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "15px"
+            }
+          }
         },
         {
           "_inherit": "msg-box8",
@@ -1136,13 +1202,13 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-28",
+          "_anchor": "msg-box3-37",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/achtergrondjegrijs-2000x1500-99.jpg",
+            "bgImage": "file:///d:/Users/Ludwig/AppData/Local/Mobirise.com/Mobirise/projectData/achtergrondjegrijs-2000x1500-99.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -1152,13 +1218,66 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
+            "showTitle": false,
+            "showText": false,
             "showButton": true
           },
           "title": "UITEINDELIJK CONCEPT",
-          "text": "<p>We gaan op zoek naar techieken om papier en andere fragile materialen te vouwen. Hiedoor trachten we een stevig object te maken met deze eerder zwakke materialen. We doen een vorm- en materiaalonderzoek en tasten de mogelijkheden van de materialen al doende af.</p>",
+          "text": "<p>We gaan op zoek naar techieken om papier en andere materialen te vouwen. Hiedoor trachten we een stevig object te maken dat ook beweegbaar is. We doen een vorm- en materiaalonderzoek en tasten de mogelijkheden van de materialen al doende af.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"experimenten.html\" data-toolbar=\"-mbrBtnMove\">Experimenten&nbsp;<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "left",
+              "color": "#5d616c"
+            },
+            "STRONG": {
+              "text-align": "left",
+              "color": "#4b4b4b"
+            },
+            "DIV": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-12",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo1-128x128-44.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>UAntwerpen</strong><br>Interieurarchitectuur<br>Case Multidiciplinariteit<br>2016-2017",
+          "text2": "<strong>Groep2</strong><br>Arno De Pauw<br>\nEvelien Dewolf<br>Evelien Hermans<br>Michelle Homburg<br>",
+          "text3": ""
         },
         {
           "_styles": {
@@ -1186,13 +1305,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
+              "background": "#323232"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
+              "background": "#434343!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
+              "background": "#4b4b4b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1253,59 +1372,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "left",
-              "color": "#5d616c"
-            },
-            "STRONG": {
-              "text-align": "left",
-              "color": "#4b4b4b"
-            },
-            "DIV": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts1-q",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-128x128-60.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>UAntwerpen</strong><br>Interieurarchitectuur<br>Case Multidiciplinariteit<br>2016-2017",
-          "text2": "<strong>Groep2</strong><br>Arno De Pauw<br>\nEvelien Dewolf<br>Evelien Hermans<br>Michelle Homburg<br>",
-          "text3": ""
         }
       ]
     },
@@ -1517,7 +1583,7 @@
           "_styles": {
             "H3": {
               "font-size": "36px",
-              "color": "#353434"
+              "color": "#232323"
             },
             "P": {
               "color": "#ffffff",
@@ -1582,7 +1648,7 @@
           "_name": "msg-box4",
           "_styles": {
             "H3": {
-              "color": "#545454"
+              "color": "#3b3b3b"
             },
             "P": {
               "font-family": "'Oxygen', sans-serif",
@@ -1639,7 +1705,7 @@
             },
             ".mbr-section-title": {
               "text-align": "center",
-              "color": "#4b4b4b",
+              "color": "#3b3b3b",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "36px"
@@ -1703,13 +1769,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
+              "background": "#323232"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
+              "background": "#434343!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
+              "background": "#4b4b4b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2013,7 +2079,7 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "color": "#4b4b4b",
+              "color": "#3b3b3b",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "60px"
@@ -2102,13 +2168,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
+              "background": "#323232"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
+              "background": "#434343!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
+              "background": "#4b4b4b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2301,13 +2367,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
+              "background": "#323232"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
+              "background": "#434343!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
+              "background": "#4b4b4b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2368,6 +2434,39 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "timeout": "7",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/foto1-2000x1500-42.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider3-33",
+          "articleLayout": false
         },
         {
           "_tags": [
@@ -2514,7 +2613,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/proces2-2000x1500-23.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2565,6 +2664,34 @@
                 "overlay": false,
                 "overlayOpacity": "0.2",
                 "overlayColor": "#b4aea5",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/proces111-2000x1500-12.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/proces112-2000x1500-16.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "IMAGE SLIDER",
@@ -2651,7 +2778,7 @@
             },
             ".mbr-section-title": {
               "text-align": "center",
-              "color": "#4b4b4b",
+              "color": "#353434",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "36px"
@@ -2887,13 +3014,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
+              "background": "#323232"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
+              "background": "#434343!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
+              "background": "#4b4b4b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
