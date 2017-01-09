@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "proces.html",
+    "currentPage": "concept.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 117,
+    "uniqCompNum": 134,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file:///d:/Users/Ludwig/Desktop/ZWART%20Test",
@@ -1165,14 +1165,6 @@
             "Theme"
           ],
           "_name": "content6",
-          "_anchor": "content6-38",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Uit de brainstorms kwam origami als interessant onderwerp naar boven. Via origami kan men met het zwakke papier en de juiste vouwen een zeer stevige structuur uitkomen. Dit en ook de eigenschap dat door bepaalde vouwmethodes het papier een flexibel en beweegbaar object gaat vormen zijn zeer interessante denkpistes. Wat wij nu in de eerste plaats onderzoeken zijn de verschillende vouwmethodes. Daarna kijken we of deze technieken</p><p>ook kunnen toegepast worden op andere materialen en of de gevouwen figuren ook wendbaar en beweeglijk blijven. </p><p><br></p>",
-          "text2": "<p>Dit betreft in de eerste plaats een studie naar materiaal en techniek maar wat ook belangrijk is, is dat we ook stilstaan bij de betekenis van origami en de crossover. In Japan wordt origami in de eerste plaats gedaan als tijdverdrijf. Men kan er zich bij</p><p>ontspannen en gebruikt het om tot rust te komen.&nbsp;<span style=\"line-height: 1.5;\">Hier in het westen worden we al snel zenuwachtig van deze moeilijke vouwmethodes. Wij, en zeker wij als interieurvormgevers, vinden eerder onze rust in een sfeervolle ruimte.</span></p><p><br></p><p>Het idee is om van origamitechnieken te starten en met deze methodes een ruimtevullend object te maken waarmij we de sfeer van de ruimte kunnen bepalen.</p>",
           "_styles": {
             "P": {
               "color": "#4b4b4b",
@@ -1180,7 +1172,15 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "15px"
             }
-          }
+          },
+          "_anchor": "content6-38",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Uit de brainstorms kwam origami als interessant onderwerp naar boven. Via origami kan men met het zwakke papier en de juiste vouwen een zeer stevige structuur uitkomen. Dit en ook de eigenschap dat door bepaalde vouwmethodes het papier een flexibel en beweegbaar object gaat vormen zijn zeer interessante denkpistes. Wat wij nu in de eerste plaats onderzoeken zijn de verschillende vouwmethodes. Daarna kijken we of deze technieken</p><p>ook kunnen toegepast worden op andere materialen en of de gevouwen figuren ook wendbaar en beweeglijk blijven. </p><p><br></p>",
+          "text2": "<p>Dit betreft in de eerste plaats een studie naar materiaal en techniek maar wat ook belangrijk is, is dat we ook stilstaan bij de betekenis van origami en de crossover. In Japan wordt origami in de eerste plaats gedaan als tijdverdrijf. Men kan er zich bij&nbsp;<span style=\"line-height: 1.5;\">ontspannen en gebruikt het om tot rust te komen.&nbsp;</span><span style=\"line-height: 1.5;\">Hier in het westen worden we al snel zenuwachtig van deze moeilijke vouwmethodes. Wij, en zeker wij als interieurvormgevers, vinden eerder onze rust in een sfeervolle ruimte.</span></p><p><br></p><p>Het idee is om van origamitechnieken te starten en met deze methodes een ruimtevullend object te maken waarbij we de sfeer van de ruimte kunnen bepalen.</p>"
         },
         {
           "_inherit": "msg-box8",
@@ -1959,10 +1959,56 @@
           "_anchor": "content1-2b",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "5",
+            "paddingBottom": "6",
             "bgColor": "#fff"
           },
           "text": "Kalkpapier met lichtwerking, bakpapier, aluminiumfolie, plexiglas, textiel, fruittella papiertjes, leer, karton - stof - karton"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".lead": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title": {
+              "color": "#353434"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///d:/Users/Ludwig/AppData/Local/Mobirise.com/Mobirise/projectData/achtergrond-2000x1341-76_1.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "PROCES PROTOTYPE",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"proces.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;&nbsp;<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a> "
         },
         {
           "_tags": [
@@ -2436,37 +2482,282 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"experimenten.html\">Experimenten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"objectAF.html\">Afgewerkt Object</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overons.html\">Over ons</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "color": "#615d5d",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "color": "#353434"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "slider3",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///d:/Users/Ludwig/AppData/Local/Mobirise.com/Mobirise/projectData/achtergrondjegrijs-2000x1500-99.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "Creating an Atmosphere",
+          "text": "<p>We gaan op zoek naar techieken om papier en andere materialen te vouwen. Hiedoor trachten we een stevig object te maken dat ook beweegbaar is. We doen een vorm- en materiaalonderzoek en tasten de mogelijkheden van de materialen al doende af.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"experimenten.html\" data-toolbar=\"-mbrBtnMove\">Experimenten&nbsp;<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
           "_params": {
             "autoplay": false,
-            "paddingTop": "3",
+            "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "7",
+            "timeout": 5,
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/foto1-2000x1500-42.jpg",
+                "image": "@PROJECT_PATH@/assets/images/af1-2000x1500-21.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Creating an Atmosphere",
+                "showText": false,
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/af2-2000x1500-10.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/af23-2000x1500-57.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/af24-2000x1500-11.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/af25-2000x1500-78.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/af26-2000x1500-95.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/af27-2000x1500-59.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
                 "contentAlign": "center",
                 "showTitle": false,
-                "title": "IMAGE SLIDER",
+                "title": "FULL SCREEN SLIDER",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "fullScreen": false,
+            "fullScreen": true,
             "bgColor": "#fff",
-            "showBullets": true
+            "showBullets": false
           },
-          "_anchor": "slider3-33",
-          "articleLayout": false
+          "_anchor": "slider-3m",
+          "articleLayout": false,
+          "_styles": {
+            "H2": {
+              "font-size": "48px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "color": "#615d5d",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "color": "#353434"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3p",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///d:/Users/Ludwig/AppData/Local/Mobirise.com/Mobirise/projectData/achtergrondjegrijs-2000x1500-99.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "Lichtwerking in de ruimte",
+          "text": "<p>We gaan op zoek naar techieken om papier en andere materialen te vouwen. Hiedoor trachten we een stevig object te maken dat ook beweegbaar is. We doen een vorm- en materiaalonderzoek en tasten de mogelijkheden van de materialen al doende af.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"experimenten.html\" data-toolbar=\"-mbrBtnMove\">Experimenten&nbsp;<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-3h",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=ZcjsRN_tzsk",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "color": "#615d5d",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "color": "#353434"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3i",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///d:/Users/Ludwig/AppData/Local/Mobirise.com/Mobirise/projectData/achtergrondjegrijs-2000x1500-99.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "MAKEN VAN HET PROTOTYPE",
+          "text": "<p>We gaan op zoek naar techieken om papier en andere materialen te vouwen. Hiedoor trachten we een stevig object te maken dat ook beweegbaar is. We doen een vorm- en materiaalonderzoek en tasten de mogelijkheden van de materialen al doende af.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"experimenten.html\" data-toolbar=\"-mbrBtnMove\">Experimenten&nbsp;<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a>"
         },
         {
           "_tags": [
@@ -2687,8 +2978,22 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/proces112-2000x1500-16.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/proces1000-2000x1500-83.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2941,6 +3246,74 @@
           "title": "TESTEN PROTOTYPE",
           "text": "Eerste prototype op kleine schaal gemaakt uit stof en karton. Onderzoek naar de draaimogelijkheden, de werking van de zwaartekracht en de dikte en soepelheid van de materialen.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "color": "#615d5d",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3e",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///d:/Users/Ludwig/AppData/Local/Mobirise.com/Mobirise/projectData/achtergrondjegrijs-2000x1500-99.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "MAKEN VAN HET PROTOTYPE",
+          "text": "<p>We gaan op zoek naar techieken om papier en andere materialen te vouwen. Hiedoor trachten we een stevig object te maken dat ook beweegbaar is. We doen een vorm- en materiaalonderzoek en tasten de mogelijkheden van de materialen al doende af.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"experimenten.html\" data-toolbar=\"-mbrBtnMove\">Experimenten&nbsp;<span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span></a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-3f",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=JM8cIHZLWZQ&t=1s",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_inherit": "msg-box8",
