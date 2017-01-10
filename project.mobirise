@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "concept.html",
+    "currentPage": "proces.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 134,
+    "uniqCompNum": 135,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file:///d:/Users/Ludwig/Desktop/ZWART%20Test",
@@ -2530,6 +2530,11 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "48px"
+            }
+          },
           "_params": {
             "autoplay": false,
             "paddingTop": 3,
@@ -2640,12 +2645,7 @@
             "showBullets": false
           },
           "_anchor": "slider-3m",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "48px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_inherit": "msg-box8",
@@ -2872,7 +2872,7 @@
           "_params": {
             "autoplay": false,
             "paddingTop": "3",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "timeout": "7",
             "slides": [
               {
@@ -3012,6 +3012,29 @@
           },
           "_anchor": "slider3-23",
           "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "color": "#4b4b4b",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "12px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content6-3q",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"line-height: 1.5;\">Foto 1-2: Brainstorms en eerste origamitesten</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Foto 3: vouwtechnieken en beweging uitproberen in papier</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Foto 4-5: Materiaaltesten en bewegingsanalyse</span></p><p><br></p><p><br></p><p><br></p>",
+          "text2": "<p>Foto 6: mdf werd gelaserd en gespoten in de juiste kleur</p><p><br></p><p>Foto 7: mdf kleven op het texiel, aannaaien van knopen voor de visdraad</p><p><br></p><p>Foto 8: toenaaien van het flexagon, bewegingsanalyse met touwen op een schaalmodel</p><p><br></p><p>Foto 9: ophanging met visdraad aan de stalen buis</p>"
         },
         {
           "_tags": [
